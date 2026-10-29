@@ -1,6 +1,8 @@
+# c programming project
+
 # ⏰-c-scientific-calculator
 Topics: c, scientific-calculator, math-functions, beginner-project, c-programming ....
-# C Programming Projects
+
 
 ## 📁 2. Digital Clock (NEW)
 Live digital clock showing HH:MM:SS
